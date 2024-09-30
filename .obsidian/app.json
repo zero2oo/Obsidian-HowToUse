@@ -1,0 +1,12 @@
+{
+  "spellcheck": false,
+  "vimMode": false,
+  "newFileLocation": "current",
+  "attachmentFolderPath": "./",
+  "readableLineLength": false,
+  "foldHeading": true,
+  "foldIndent": true,
+  "livePreview": false,
+  "strictLineBreaks": false,
+  "tabSize": 2
+}

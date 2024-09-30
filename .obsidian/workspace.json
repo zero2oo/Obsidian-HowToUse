@@ -1,0 +1,175 @@
+{
+  "main": {
+    "id": "8edd944f6e465973",
+    "type": "split",
+    "children": [
+      {
+        "id": "17a47c3c8e4dd8e2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "01f363cd00768048",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "45cc1c7b078c59b9",
+    "type": "split",
+    "children": [
+      {
+        "id": "7f29cae5e17e14fe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fe18a750c1b48aaa",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTimeReverse"
+              }
+            }
+          },
+          {
+            "id": "6b3828c36c769648",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1530cf28fe022bbe",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 365.5
+  },
+  "right": {
+    "id": "2b9cc78c54f423b8",
+    "type": "split",
+    "children": [
+      {
+        "id": "7599ebe7135afce5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1790d06835129e49",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ec06fb5bfec406b0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0e482b9d47a7c69c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "87e7a5b9d2c87420",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "switcher:Open quick switcher": false,
+      "daily-notes:Open today's daily note": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "01f363cd00768048",
+  "lastOpenFiles": [
+    "1. Glossary/Locking and attaching.md",
+    "0. Home/How to practice.md",
+    "0. Home/Allies and enemies.md",
+    "1. Glossary/Abbreviations and terminology.md",
+    "1. Glossary/Bibliography.md",
+    "0. Home/Woytowicz.md",
+    "2. Technique/Practicing, stress and stage fright.md",
+    "2. Technique/Muscular vibration in practice (Debussy - “Toccata”).md",
+    "2. Technique/“Shaking the arm” - Muscular vibration.md",
+    "2. Technique/The whipping (throwing) movement.md",
+    "2. Technique/How to play staccato on the piano.md",
+    "2. Technique/The weight of the hand - Can one play with a tense hand.md",
+    "2. Technique/The fourth finger secret - Tendon that makes playing more difficult.md",
+    "2. Technique/Powerful fingers, gymnastics and risk of injury.md",
+    "2. Technique/Elongated fingers, bridge and crane - Pedagogical inexactitudes.md",
+    "2. Technique/How to easily obtain “the bridge”.md",
+    "2. Technique/How to play the piano rapidly without harmfully tensing up your hand.md",
+    "2. Technique/Introduction.md",
+    "1. Glossary/Hovering and sticking.md",
+    "1. Glossary/The front line and the rear guard.md",
+    "1. Glossary/Neuhaus’ bridge and crane.md",
+    "1. Glossary/Introduction - Explanations and clarifications.md",
+    "1. Glossary/Shaking the arm.md",
+    "Untitled.md",
+    "Glossary/Home.md",
+    "2. Technique",
+    "Glossary/Welcome.md",
+    "1. Glossary",
+    "0. Home",
+    "Untitled.canvas",
+    "Untitled 1.canvas"
+  ]
+}

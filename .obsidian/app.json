@@ -8,5 +8,9 @@
   "foldIndent": true,
   "livePreview": false,
   "strictLineBreaks": false,
-  "tabSize": 2
+  "tabSize": 2,
+  "promptDelete": false,
+  "showInlineTitle": false,
+  "showRibbon": true,
+  "showIndentGuide": true
 }

@@ -1,5 +1,14 @@
 {
   "enabledCssSnippets": [
-    "image"
-  ]
+    "image",
+    "quotes",
+    "quote",
+    "color_side_bar"
+  ],
+  "theme": "obsidian",
+  "accentColor": "#dde4dd",
+  "showViewHeader": true,
+  "nativeMenus": false,
+  "baseFontSize": 15,
+  "baseFontSizeAction": false
 }

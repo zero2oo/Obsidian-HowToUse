@@ -1,0 +1,49 @@
+> Lorem ipsum dolor sit amet, consectetur, adipisicing elit. Iure minus voluptates illum aspernatur officia vel officiis, et quis qui. Enim omnis officia sunt consectetur obcaecati repudiandae! Numquam, voluptas at, ab officiis recusandae, dolorum inventore quod iste cumque explicabo dicta quidem accusantium velit odit deleniti, ipsum commodi?
+> <cite>Name of the author</cite>
+
+## Snippet CSS:
+```css
+.theme-light {  
+--cbs: 0px 2px 4px rgba(0, 0, 0, 0.01), 0px 4px 8px rgba(0, 0, 0, 0.01),  
+0px 4px 8px rgba(0, 0, 0, 0.01), 0px 0px 12px rgba(0, 0, 0, 0.01),  
+0px 2px 16px rgba(0, 0, 0, 0.01), 0px 4px 20px rgba(0, 0, 0, 0.01);  
+--background-primary-alt-1: var(--background-primary);  
+}  
+  
+.theme-dark {  
+--cbs: 0px 2px 4px rgba(0, 0, 0, 0.05), 0px 4px 8px rgba(0, 0, 0, 0.03),  
+0px 4px 8px rgba(0, 0, 0, 0.05), 0px 0px 12px rgba(0, 0, 0, 0.03),  
+0px 2px 16px rgba(0, 0, 0, 0.03), 0px 4px 20px rgba(0, 0, 0, 0.02);  
+--background-primary-alt-1: var(--background-primary-alt);  
+}  
+  
+.markdown-preview-view blockquote {  
+padding: 18px 12px 8px 32px;  
+border: 2px dashed #a6a195; /* put 'border: 0px;' if you dont want the dashed border! */  
+color: var(--text-muted); /* this is the text color */  
+position: relative;  
+border-radius: 6px; /* this controls the quotes 'roundness' */  
+box-shadow: var(--cbs);  
+background: var(  
+--background-primary-alt-1  
+); /* var(--background-primary-alt) gives better contrast in darkmode, var(--background-primary) is more minimal; */  
+}  
+  
+.markdown-preview-view blockquote:before {  
+content: "";  
+position: absolute;  
+left: 15px;  
+top: 15px;  
+width: 3px;  
+height: calc(100% - 30px);  
+background: #4b4d47; /* change this color to change the vertical bar in preview mode! */  
+border-radius: var(--button-radius);  
+}  
+  
+cite {  
+color: var(--text-accent);  
+text-align: end;  
+display: block;  
+padding-right: 1em;  
+}
+```
